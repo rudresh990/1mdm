@@ -125,3 +125,14 @@ li{
     font-weight: 800px!important;
     transition: 0.5s;
 }
+.slider{
+    background-color: #e1dddd;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+.slider h2{
+    color: #ad0000;
+    font-size: 48px;
+    font-weight: 600px;
+}
