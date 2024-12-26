@@ -1,1 +1,51 @@
-
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.top-section{
+    padding-top: 10px;
+    padding-bottom: 5px;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+.top-bar{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    border-bottom: 1px solid #d1d1d1;
+    padding-bottom: 5px;
+}
+#top-text{
+    color: #6f6f6f;
+}
+a{
+    text-decoration: none;
+    color: #060606;
+}
+a:hover{
+    color: #ff0000;
+    transition: 0.5s;
+}
+.menubar{
+    background-color: #ffffff;
+    padding-left: 70px;
+    padding-right: 70px;
+}
+ul{
+    list-style: none;
+}
+li{
+    display: inline;
+    padding-left: 5px;
+}
+.navbar-toggler{
+    display: none;
+}
+.container-fluid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding-bottom: 5px;
+}
+.banner-img{
+    background-image: 'assets/seller-banner.png';
+}
