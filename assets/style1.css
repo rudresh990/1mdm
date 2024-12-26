@@ -22,7 +22,7 @@ a{
     color: #060606!important;
 }
 a:hover{
-    color: #ff0000;
+    color: #ff0000!important;
     transition: 0.5s;
 }
 .menubar{
