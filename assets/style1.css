@@ -46,7 +46,7 @@ li{
     justify-content: space-between;
     padding-bottom: 5px;
 }
-.banner{
+.banner-img{
     background-image: url('..assests/seller-banner.png');
     background-size: cover;
     background-position: center;
