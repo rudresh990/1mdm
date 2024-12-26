@@ -77,3 +77,8 @@ h4{
     color: #ffffff!important;
     transition: 0.5s;
 }
+.banner-heading{
+    color: #ff0000;
+    font-size: 40px;
+    font-weight: 600;
+}
