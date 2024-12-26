@@ -41,10 +41,7 @@ li{
     display: none;
 }
 .container-fluid{
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    padding-bottom: 5px;
+    --bs-gutter-x: 0rem;
 }
 .banner-img{
     background-image: url('../assets/seller-banner.png');
