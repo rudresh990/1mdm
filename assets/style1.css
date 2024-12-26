@@ -191,6 +191,7 @@ li{
     color: #ffffff;
 }
 .copyright{
+    padding-top: 15px;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
