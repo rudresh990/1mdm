@@ -47,7 +47,7 @@ li{
     padding-bottom: 5px;
 }
 .banner-img{
-    background-image: url('..assests/seller-banner.png');
+    background-image: 'assets/seller-banner.png';
     background-size: cover;
     background-position: center;
     height: 500px;
