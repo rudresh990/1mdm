@@ -52,7 +52,7 @@ li{
     padding-bottom: 120px;
 }
 h4{
-    color: #ff0000;
+    color: #ff0000!important;
 }
 .btn-danger{
     background-color: #ff0000;
