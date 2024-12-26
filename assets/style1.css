@@ -49,5 +49,11 @@ li{
 .banner-img{
     background-image: url('../assets/seller-banner.png');
     background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
     height: 500px;
+}
+.banner{
+    padding-top: 120px;
+    padding-bottom: 120px;
 }
